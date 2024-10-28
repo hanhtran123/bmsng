@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Debet – Nhà cái châu Âu uy tín nhất 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Debet <https://bms-ng.com/>`_ hiện đang là cổng game làm mưa làm gió trên thị trường game online tại Việt Nam. Không chỉ có thế, nó còn được mệnh danh là một trong những nhà cái hàng đầu châu Âu. Nay Debet kết hợp với bms-ng mang lại cho người chơi đã giúp cho nó có sức hút, uy tín và vị thế nhất định trên thị trường cổng game online sôi động hiện nay.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 638/Đ. Lê Trọng Tấn/10 39/16, Khu Phố 3, Bình Tân, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0732302463. 
 
-Contents
---------
+Email: info@bms-ng.com. 
 
-.. toctree::
+Website: https://bms-ng.com/ 
 
-   usage
-   api
+#bmsng #bmsngcom #debet #nhacaidebet
